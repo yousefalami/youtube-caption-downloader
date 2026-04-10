@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.converted.txt
+*.converted.srt
+*.converted.vtt
+Thumbs.db
